@@ -7,7 +7,7 @@ namespace CbCode.Tests.ImmutableObjects
     public class Tests
     {
         [Test]
-        public void Test()
+        public void Customer_WithUpdatedOrder_ReturnsCorrectPrice()
         {
             var price = 100m;
             var product = new Product(price);
