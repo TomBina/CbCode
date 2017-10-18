@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace CbCode.Examples.FlexibleAlgorithmsInterfaces
+namespace CbCode.Examples.StrategyPatternWithInterfaces
 {
     public class DealsData : IDealsData
     {

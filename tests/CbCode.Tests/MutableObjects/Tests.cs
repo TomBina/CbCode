@@ -6,7 +6,7 @@ namespace CbCode.Tests.MutableObjects
     public class Tests
     {
         [Test]
-        public void OrderProduct()
+        public void Customer_WithEnoughMoney_CanBuyProduct()
         {
             var product = new Product();
             var customer = new Customer();
@@ -20,7 +20,7 @@ namespace CbCode.Tests.MutableObjects
 
         [Ignore("Remove this to see demo")]
         [Test]
-        public void OrderProductBug()
+        public void Customer_WithEnoughMoneyAndDiscount_CanBuyProduct()
         {
             var product = new Product();
             var customer = new Customer();

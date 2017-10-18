@@ -1,7 +1,7 @@
-﻿using CbCode.Examples.FlexibleAlgorithmsInterfaces;
+﻿using CbCode.Examples.StrategyPatternWithInterfaces;
 using NUnit.Framework;
 
-namespace CbCode.Tests.FlexibleAlgorithmsInterfaces
+namespace CbCode.Tests.StrategyPatternWithInterfaces
 {
     public class Tests
     {

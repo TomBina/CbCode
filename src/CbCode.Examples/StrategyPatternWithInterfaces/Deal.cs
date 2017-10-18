@@ -1,4 +1,4 @@
-namespace CbCode.Examples.FlexibleAlgorithmsInterfaces
+namespace CbCode.Examples.StrategyPatternWithInterfaces
 {
     public class Deal
     {

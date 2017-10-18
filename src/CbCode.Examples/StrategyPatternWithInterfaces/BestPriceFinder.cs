@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CbCode.Examples.FlexibleAlgorithmsInterfaces
+namespace CbCode.Examples.StrategyPatternWithInterfaces
 {
     public class BestPriceFinder : IBestDealFinder
     {
