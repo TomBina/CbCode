@@ -1,1 +1,1 @@
-# CbCode
+# Code samples from coolbytes.io
