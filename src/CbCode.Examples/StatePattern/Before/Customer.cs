@@ -22,7 +22,6 @@ namespace CbCode.Examples.StatePattern.Before
 
         public decimal GetDiscount()
         {
-
             if (Orders > 0 && Orders <= 5 && (DateTime.Now - LastOrderDate).Days < 10)
             {
                 return 0.1m;

@@ -17,7 +17,7 @@ namespace CbCode.Tests.StatePattern.After
             var lastOrderDate = DateTime.Now.AddDays(-daysAgo);
             var customer = new Customer(orders, lastOrderDate);
 
-            var discount = customer.DiscountPolicy.GetDiscount();
+            var discount = customer.GetDiscount();
 
             Assert.AreEqual(expectedDiscount, discount);
         }
