@@ -15,4 +15,13 @@
     <ProjectReference Include="..\..\src\CbCode.Examples\CbCode.Examples.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="FactoryMethodPattern\Assets\data.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="FactoryMethodPattern\Assets\data.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
