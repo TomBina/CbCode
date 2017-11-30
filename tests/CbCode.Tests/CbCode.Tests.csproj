@@ -16,10 +16,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="FactoryMethodPattern\Assets\data.json">
+    <None Update="DesignPatterns\FactoryMethodPattern\Assets\data.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="FactoryMethodPattern\Assets\data.xml">
+    <None Update="DesignPatterns\FactoryMethodPattern\Assets\data.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
