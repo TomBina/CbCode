@@ -22,6 +22,9 @@
     <None Update="DesignPatterns\FactoryMethodPattern\Assets\data.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Update="DesignPatterns\StrategyPattern\Assets\log.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
